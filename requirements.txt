@@ -4,3 +4,5 @@ numpy
 PyPDF2
 sentence-transformers
 ollama
+pdfminer.six
+scikit-learn
